@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WAY</string>
+    <string name="scan">Scan</string>
+    <string name="login">login</string>
+    <string-array name="bus_route">
+        <item>wadi</item>
+        <item>sadar</item>
+    </string-array>
+</resources>
